@@ -26,3 +26,4 @@ for word in words:
     story = story.replace(word, answers[word])
 
 print(story) 
+# prints the out pyt according to the words you have entered
